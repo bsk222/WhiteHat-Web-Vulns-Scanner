@@ -1,4 +1,17 @@
-# White Hat MultiTools
-MultiTools de PenTesting et d'Osint créer par moi même, l'original, dispo aux 50 stars...
+# White Hat MultiTools > Dispo aux 50 ⭐ 
 
-Discord du Projet: https://discord.gg/S5A8SNMZqe
+> MultiTools de PenTesting & OSINT — créé par **BsK**  
+> L’original 
+
+---
+
+## ⚡ Infos
+- Outils de PenTesting et d'osint
+- Compatible Windows, Linux et macOS.  
+
+---
+
+## 🚀 Réseaux
+- github.com/bsk222
+- guns.lol/newbsk
+- discord.gg/S5A8SNMZqe
