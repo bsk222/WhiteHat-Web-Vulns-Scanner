@@ -1,3 +1,3 @@
 # White Hat MultiTools
-MultiTools de PenTesting et d'Osint créer par moi même, l'original
+MultiTools de PenTesting et d'Osint créer par moi même, l'original,
 dispo aux 50 stars...
